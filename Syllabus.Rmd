@@ -5,7 +5,7 @@ author: |
   | Санжар Қалқанбай
   | [s.kalkanbay@gmail.com](mailto:s.kalkanbay@gmail.com)
   |
-  | Kazakhstan Sociology Lab
+  | MIND MNU
 date: "Last Update: 2025-06-12"
 output:
   pdf_document:
